@@ -1,0 +1,38 @@
+{
+    "name": "Template Pack",
+    "version": "0.0.1",
+    "description": "Slime rancher inspired modpack for the JEO Modpack Jam",
+    "author": "Deepacat, Meeprdib",
+    "overrides": [
+        "config",
+        "defaultconfigs",
+        "configureddefaults",
+        "kubejs",
+        "ldlib",
+        "!kubejs/probe/",
+        "!kubejs/modpackData/**",
+        "kubejs/modpackData/*.txt",
+        "!resourcepacks",
+        "config"
+    ],
+    "server_overrides": [
+        "!kubejs/assets",
+        "forge-auto-install.txt",
+        "generate_auto_installation_file.bat",
+        "minecraft_server.jar",
+        "server.properties",
+        "server_starter.conf",
+        "server-icon.png",
+        "start_server.bat",
+        "README.md"
+    ],
+    "projects": {
+        "embeddium": {
+            "side": "CLIENT"
+        },
+        "embeddiumplus": {
+            "side": "CLIENT"
+        }
+    },
+    "export_server_side_projects_to_client": true
+}
