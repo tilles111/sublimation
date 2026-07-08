@@ -159,6 +159,48 @@
             ]
         },
         {
+            "pakku_id": "pnx4Nb1sC98Uryut",
+            "pakku_links": [
+                "aQ49gXBZdZJsrmJg"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "atmospheric"
+            },
+            "name": {
+                "curseforge": "Atmospheric"
+            },
+            "id": {
+                "curseforge": "362393"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "atmospheric-1.20.1-6.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6393/127/atmospheric-1.20.1-6.1.1.jar",
+                    "id": "6393127",
+                    "parent_id": "362393",
+                    "hashes": {
+                        "sha1": "9a655ae0953d0205c10315560466779228c08b18",
+                        "md5": "e63b3420f173976542e3e59c8107d5ff"
+                    },
+                    "required_dependencies": [
+                        "382216"
+                    ],
+                    "size": 5213524,
+                    "date_published": "2025-04-06T21:12:47.163Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lM5acsXrrDni9rd9",
             "type": "MOD",
             "slug": {
@@ -192,6 +234,43 @@
                     "required_dependencies": [],
                     "size": 19499,
                     "date_published": "2026-02-12T01:13:46.607Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aQ49gXBZdZJsrmJg",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "blueprint"
+            },
+            "name": {
+                "curseforge": "Blueprint"
+            },
+            "id": {
+                "curseforge": "382216"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "blueprint-1.20.1-7.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8048/579/blueprint-1.20.1-7.1.4.jar",
+                    "id": "8048579",
+                    "parent_id": "382216",
+                    "hashes": {
+                        "sha1": "10ee193ad755b03eceb0791a6f5257755feebcfe",
+                        "md5": "024008848618628f9f37f7af1018ae58"
+                    },
+                    "required_dependencies": [],
+                    "size": 1165189,
+                    "date_published": "2026-05-06T15:28:19.517Z"
                 }
             ]
         },
@@ -269,6 +348,42 @@
                     ],
                     "size": 956960,
                     "date_published": "2026-05-09T19:47:30.520Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "C12QXrfe78PqtWpb",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cold-sweat"
+            },
+            "name": {
+                "curseforge": "Cold Sweat"
+            },
+            "id": {
+                "curseforge": "506194"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ColdSweat-2.4.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8302/213/ColdSweat-2.4.2.jar",
+                    "id": "8302213",
+                    "parent_id": "506194",
+                    "hashes": {
+                        "sha1": "f5e203dbdca07470d29d872348e3233cd698f3a9",
+                        "md5": "97004c76eb6b4be3570f727b9743fa54"
+                    },
+                    "required_dependencies": [],
+                    "size": 2705107,
+                    "date_published": "2026-06-22T18:58:21.747Z"
                 }
             ]
         },
@@ -427,6 +542,43 @@
                     "required_dependencies": [],
                     "size": 31643,
                     "date_published": "2026-04-10T16:49:55.103Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ubjHSytyQ21989Qt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "diet"
+            },
+            "name": {
+                "curseforge": "Diet (Fabric/Forge/Quilt)"
+            },
+            "id": {
+                "curseforge": "443570"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "diet-forge-2.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4813/904/diet-forge-2.1.1+1.20.1.jar",
+                    "id": "4813904",
+                    "parent_id": "443570",
+                    "hashes": {
+                        "sha1": "c5f5d5980803259931dfa62236e888fb08ecf70a",
+                        "md5": "9a3d884e073eb6791be3fbcafd38f2b2"
+                    },
+                    "required_dependencies": [],
+                    "size": 368483,
+                    "date_published": "2023-10-24T01:57:42.553Z"
                 }
             ]
         },
@@ -702,6 +854,43 @@
                     "required_dependencies": [],
                     "size": 123034,
                     "date_published": "2023-10-22T13:35:16.597Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "PUmGkBP32ZGu8iG9",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "finitewater"
+            },
+            "name": {
+                "curseforge": "Finite Water"
+            },
+            "id": {
+                "curseforge": "821384"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "finitewater-1.20.1-0.1.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5077/993/finitewater-1.20.1-0.1.2.jar",
+                    "id": "5077993",
+                    "parent_id": "821384",
+                    "hashes": {
+                        "sha1": "3f37a774f2670a0f9065a488ec1b5a62eadd561f",
+                        "md5": "fece501e944f55804a6e03f2594098ac"
+                    },
+                    "required_dependencies": [],
+                    "size": 5656,
+                    "date_published": "2024-02-03T12:39:58.570Z"
                 }
             ]
         },
@@ -1349,6 +1538,42 @@
                     "required_dependencies": [],
                     "size": 1798244,
                     "date_published": "2025-02-12T21:26:47.347Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gXJlY9OxKOvaEkkk",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "scarcity"
+            },
+            "name": {
+                "curseforge": "Scarcity"
+            },
+            "id": {
+                "curseforge": "1421947"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "scarcity-1.1.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8196/975/scarcity-1.1.5.jar",
+                    "id": "8196975",
+                    "parent_id": "1421947",
+                    "hashes": {
+                        "sha1": "77a806d74db07cdc62413a331782510710898e92",
+                        "md5": "1f11495b1d85b103f402bf4052aed6f6"
+                    },
+                    "required_dependencies": [],
+                    "size": 125360,
+                    "date_published": "2026-06-04T17:07:17.300Z"
                 }
             ]
         },
