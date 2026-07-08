@@ -1542,42 +1542,6 @@
             ]
         },
         {
-            "pakku_id": "gXJlY9OxKOvaEkkk",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "scarcity"
-            },
-            "name": {
-                "curseforge": "Scarcity"
-            },
-            "id": {
-                "curseforge": "1421947"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "scarcity-1.1.5.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8196/975/scarcity-1.1.5.jar",
-                    "id": "8196975",
-                    "parent_id": "1421947",
-                    "hashes": {
-                        "sha1": "77a806d74db07cdc62413a331782510710898e92",
-                        "md5": "1f11495b1d85b103f402bf4052aed6f6"
-                    },
-                    "required_dependencies": [],
-                    "size": 125360,
-                    "date_published": "2026-06-04T17:07:17.300Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "6S1a4Ya7sbsEiwB4",
             "type": "MOD",
             "slug": {
@@ -1886,6 +1850,43 @@
                     ],
                     "size": 62974,
                     "date_published": "2026-04-21T19:50:17.277Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DQzLZI4uNKHokFef",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "thirsty-bottles"
+            },
+            "name": {
+                "curseforge": "Thirsty Bottles"
+            },
+            "id": {
+                "curseforge": "263498"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ThirstyBottles-Forge-1.20.1-7.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7613/260/ThirstyBottles-Forge-1.20.1-7.0.3.jar",
+                    "id": "7613260",
+                    "parent_id": "263498",
+                    "hashes": {
+                        "sha1": "904482fb96509dfc5bc6cc7226f7c2c1445c8baa",
+                        "md5": "4a46f603182a550a7d164e64d82b2a88"
+                    },
+                    "required_dependencies": [],
+                    "size": 8778,
+                    "date_published": "2026-02-12T07:54:05.290Z"
                 }
             ]
         },
