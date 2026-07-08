@@ -9,5 +9,8 @@ Mesas, dunes, and patches of life are placed across the surface.
 
 ### Automation
 
-
+## Credits
+Some worldgen stuff (mainly the surface rules for the dunes) is based on stuff from here https://github.com/Deepacat/Splendid-Ranching/blob/main
 Pakku is from here https://github.com/juraj-hrivnak/Pakku
+
+Thanks to the great people on MDK for all their help :)
