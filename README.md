@@ -9,5 +9,8 @@ Mesas, dunes, and patches of life are placed across the surface.
 
 ### Automation
 
-
+## Credits
+The terrain of the dunes is mainly based off work by Uni.
 Pakku is from here https://github.com/juraj-hrivnak/Pakku
+
+Thanks to the great people on MDK for all their help :)
