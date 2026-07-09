@@ -2,7 +2,7 @@
 [Builtin]
 	#─────────────────────────────────────────────────────────────────────────
 	# This setting doesn't do anything. Change the difficulty using the in-game menu
-	Difficulty = "custom"
+	Difficulty = "normal"
 	#─────────────────────────────────────────────────────────────────────────
 	# The current version of Cold Sweat. This is used by the auto-updater
 	Version = "2.4.2"
