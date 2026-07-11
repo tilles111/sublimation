@@ -352,21 +352,21 @@
             ]
         },
         {
-            "pakku_id": "C12QXrfe78PqtWpb",
+            "pakku_id": "9l1xaLIT0ertSioo",
             "type": "MOD",
             "slug": {
-                "curseforge": "cold-sweat"
+                "curseforge": "configured"
             },
             "name": {
-                "curseforge": "Cold Sweat"
+                "curseforge": "Configured"
             },
             "id": {
-                "curseforge": "506194"
+                "curseforge": "457570"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ColdSweat-2.4.2.jar",
+                    "file_name": "configured-forge-1.20.1-2.2.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -374,16 +374,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8302/213/ColdSweat-2.4.2.jar",
-                    "id": "8302213",
-                    "parent_id": "506194",
+                    "url": "https://edge.forgecdn.net/files/5180/900/configured-forge-1.20.1-2.2.3.jar",
+                    "id": "5180900",
+                    "parent_id": "457570",
                     "hashes": {
-                        "sha1": "f5e203dbdca07470d29d872348e3233cd698f3a9",
-                        "md5": "97004c76eb6b4be3570f727b9743fa54"
+                        "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+                        "md5": "9380dc31c599c523a5682a4025fceb92"
                     },
                     "required_dependencies": [],
-                    "size": 2705107,
-                    "date_published": "2026-06-22T18:58:21.747Z"
+                    "size": 418929,
+                    "date_published": "2024-03-14T03:01:07.233Z"
                 }
             ]
         },
@@ -546,6 +546,43 @@
             ]
         },
         {
+            "pakku_id": "GTQNocDqP3znPgCu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cyanide"
+            },
+            "name": {
+                "curseforge": "Cyanide"
+            },
+            "id": {
+                "curseforge": "541676"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cyanide-forge-1.20.1-4.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5778/405/cyanide-forge-1.20.1-4.1.1.jar",
+                    "id": "5778405",
+                    "parent_id": "541676",
+                    "hashes": {
+                        "sha1": "e2db7885a23f32c816ba8fb7db904fe68099ce09",
+                        "md5": "e2b7fd1c9214d8677b453c90bdf36744"
+                    },
+                    "required_dependencies": [],
+                    "size": 76558,
+                    "date_published": "2024-10-03T02:32:45.850Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ubjHSytyQ21989Qt",
             "type": "MOD",
             "slug": {
@@ -690,6 +727,43 @@
                     "required_dependencies": [],
                     "size": 1320675,
                     "date_published": "2024-08-31T23:11:49.240Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OPbmzj0ohpsy9DJw",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "farmers-delight"
+            },
+            "name": {
+                "curseforge": "Farmer's Delight"
+            },
+            "id": {
+                "curseforge": "398521"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FarmersDelight-1.20.1-1.3.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8083/474/FarmersDelight-1.20.1-1.3.2.jar",
+                    "id": "8083474",
+                    "parent_id": "398521",
+                    "hashes": {
+                        "sha1": "397763ae36dc2e0f526e0338c875850437580157",
+                        "md5": "39459d8e62ef83e36c2b54952dbe2c2f"
+                    },
+                    "required_dependencies": [],
+                    "size": 3313327,
+                    "date_published": "2026-05-13T16:37:44.147Z"
                 }
             ]
         },
@@ -1240,6 +1314,42 @@
                     ],
                     "size": 1658792,
                     "date_published": "2026-05-01T10:43:20.410Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "NfWaRQ1ExpGW4ZAq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "lithostitched"
+            },
+            "name": {
+                "curseforge": "Lithostitched"
+            },
+            "id": {
+                "curseforge": "936015"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lithostitched-forge-1.20.1-1.4.11.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6742/615/lithostitched-forge-1.20.1-1.4.11.jar",
+                    "id": "6742615",
+                    "parent_id": "936015",
+                    "hashes": {
+                        "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece",
+                        "md5": "3c596bbc1b5f769f22be751e9c21a6c8"
+                    },
+                    "required_dependencies": [],
+                    "size": 476347,
+                    "date_published": "2025-07-07T23:21:45.877Z"
                 }
             ]
         },
@@ -1924,6 +2034,42 @@
                     "required_dependencies": [],
                     "size": 3875,
                     "date_published": "2023-07-06T08:27:59.207Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "D2VQUZv5tS5hOGDy",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "twigs"
+            },
+            "name": {
+                "curseforge": "Twigs"
+            },
+            "id": {
+                "curseforge": "496913"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Twigs-1.20.1-3.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4998/195/Twigs-1.20.1-3.1.0.jar",
+                    "id": "4998195",
+                    "parent_id": "496913",
+                    "hashes": {
+                        "sha1": "704711f8abebf051945dca2ae2a1eba9c3405c57",
+                        "md5": "726e5fbe4661a26c6dcfb24e54607bad"
+                    },
+                    "required_dependencies": [],
+                    "size": 2766476,
+                    "date_published": "2024-01-01T02:09:08.843Z"
                 }
             ]
         },

@@ -1382,7 +1382,7 @@
                               "if_true": {
                                 "type": "minecraft:biome",
                                 "biome_is": [
-                                  "minecraft:desert"
+                                  "sublimation:dunes"
                                 ]
                               },
                               "then_run": {
@@ -2158,7 +2158,7 @@
                               "if_true": {
                                 "type": "minecraft:biome",
                                 "biome_is": [
-                                  "minecraft:desert"
+                                  "sublimation:dunes"
                                 ]
                               },
                               "then_run": {
@@ -2393,7 +2393,7 @@
                     "if_true": {
                       "type": "minecraft:biome",
                       "biome_is": [
-                        "minecraft:desert"
+                        "sublimation:dunes"
                       ]
                     },
                     "then_run": {
