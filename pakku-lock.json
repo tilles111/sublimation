@@ -238,6 +238,124 @@
             ]
         },
         {
+            "pakku_id": "LBZKA7IxGrFW3TZU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "better-block-sounds"
+            },
+            "name": {
+                "curseforge": "Better Block Sounds"
+            },
+            "id": {
+                "curseforge": "630342"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bbs-1.20.1-0.1.3-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4709/560/bbs-1.20.1-0.1.3-forge.jar",
+                    "id": "4709560",
+                    "parent_id": "630342",
+                    "hashes": {
+                        "sha1": "972fdb8da6e1d29add810a6dcd90219dc3a5812d",
+                        "md5": "2d00ec049a1d8f3fea7f4c2588c8c8cc"
+                    },
+                    "required_dependencies": [],
+                    "size": 14852,
+                    "date_published": "2023-08-17T18:36:01.130Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wOVTYIAW0mr5G8WH",
+            "pakku_links": [
+                "E5nRqdZwLCtUZ4R8"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "better-clouds"
+            },
+            "name": {
+                "curseforge": "Better Clouds"
+            },
+            "id": {
+                "curseforge": "1285973"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7074/847/better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar",
+                    "id": "7074847",
+                    "parent_id": "1285973",
+                    "hashes": {
+                        "sha1": "5970c3134b95963c467c2dd76664ff02224140b6",
+                        "md5": "d3e86ac9307524cf4cff33e794f7195d"
+                    },
+                    "required_dependencies": [
+                        "667299"
+                    ],
+                    "size": 969149,
+                    "date_published": "2025-10-06T19:41:52.697Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "j9hgVn42bijplecH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "better-fog"
+            },
+            "name": {
+                "curseforge": "Better Fog"
+            },
+            "id": {
+                "curseforge": "836630"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "betterfog-2.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6038/472/betterfog-2.3-1.20.1.jar",
+                    "id": "6038472",
+                    "parent_id": "836630",
+                    "hashes": {
+                        "sha1": "b13124f09ec905f16997e492dee4f2061c6a1537",
+                        "md5": "322c06405cd8a0e7e534da834af3f106"
+                    },
+                    "required_dependencies": [],
+                    "size": 77515,
+                    "date_published": "2024-12-31T02:45:54.637Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aQ49gXBZdZJsrmJg",
             "type": "MOD",
             "slug": {
@@ -727,6 +845,79 @@
                     "required_dependencies": [],
                     "size": 1320675,
                     "date_published": "2024-08-31T23:11:49.240Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "iWtiWgIVlgHlyCPP",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "explosive-enhancement-reforged"
+            },
+            "name": {
+                "curseforge": "Explosive Enhancement: Reforged"
+            },
+            "id": {
+                "curseforge": "1036246"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5960/819/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                    "id": "5960819",
+                    "parent_id": "1036246",
+                    "hashes": {
+                        "sha1": "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6",
+                        "md5": "06f4d25ecc03e08aaf45c8c48dc0a0b4"
+                    },
+                    "required_dependencies": [],
+                    "size": 83842,
+                    "date_published": "2024-12-03T23:59:27.337Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "X3WhSc0Vz8rxEkNn",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "extrasounds-forge"
+            },
+            "name": {
+                "curseforge": "ExtraSounds Next"
+            },
+            "id": {
+                "curseforge": "946784"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "extrasounds-1.5.4+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7815/334/extrasounds-1.5.4+1.20.1-forge.jar",
+                    "id": "7815334",
+                    "parent_id": "946784",
+                    "hashes": {
+                        "sha1": "40373e800760010970e100a5f546abe1cb532416",
+                        "md5": "0af1bd4548a43541b0db69ee5f03df06"
+                    },
+                    "required_dependencies": [],
+                    "size": 534488,
+                    "date_published": "2026-03-26T05:02:31.343Z"
                 }
             ]
         },
@@ -1542,6 +1733,43 @@
             ]
         },
         {
+            "pakku_id": "C0Kd8AwqLfeezr0v",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "particle-rain"
+            },
+            "name": {
+                "curseforge": "Particle Rain"
+            },
+            "id": {
+                "curseforge": "421897"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "particlerain-4.0.0-beta.10+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8055/453/particlerain-4.0.0-beta.10+1.20.1-forge.jar",
+                    "id": "8055453",
+                    "parent_id": "421897",
+                    "hashes": {
+                        "sha1": "26616591ebf471f787faa633b220d8f5c30e8282",
+                        "md5": "2b9e2497655c09a4c1f2899e15a5ff26"
+                    },
+                    "required_dependencies": [],
+                    "size": 1239956,
+                    "date_published": "2026-05-08T00:41:04.643Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "YvTV33UBCJM5j7t3",
             "type": "MOD",
             "slug": {
@@ -1925,6 +2153,42 @@
             ]
         },
         {
+            "pakku_id": "jaSn0gwaGhnBqnBE",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sound-physics-remastered"
+            },
+            "name": {
+                "curseforge": "Sound Physics Remastered"
+            },
+            "id": {
+                "curseforge": "535489"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7032/235/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                    "id": "7032235",
+                    "parent_id": "535489",
+                    "hashes": {
+                        "sha1": "aef2c02392624f0a12475ada809366b12ac9ec52",
+                        "md5": "d70031b5058fb81d2670a4039440b00f"
+                    },
+                    "required_dependencies": [],
+                    "size": 206984,
+                    "date_published": "2025-09-25T14:25:13.323Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "3a34791P7Yy3OUcI",
             "type": "MOD",
             "slug": {
@@ -2070,6 +2334,43 @@
                     "required_dependencies": [],
                     "size": 2766476,
                     "date_published": "2024-01-01T02:09:08.843Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "E5nRqdZwLCtUZ4R8",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "yacl"
+            },
+            "name": {
+                "curseforge": "YetAnotherConfigLib"
+            },
+            "id": {
+                "curseforge": "667299"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6336/646/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                    "id": "6336646",
+                    "parent_id": "667299",
+                    "hashes": {
+                        "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+                        "md5": "2437cb642e24726a83f864e345f24479"
+                    },
+                    "required_dependencies": [],
+                    "size": 1105891,
+                    "date_published": "2025-03-23T19:12:56.087Z"
                 }
             ]
         },

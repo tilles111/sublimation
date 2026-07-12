@@ -2,7 +2,7 @@
   "carvers": {},
   "downfall": 0,
   "effects": {
-    "fog_color": 16774594,
+    "fog_color": 15586480,
     "grass_color": 6389290,
     "foliage_color": 6389290,
     "mood_sound": {
@@ -17,7 +17,7 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.desert"
     },
-    "sky_color": 8173760,
+    "sky_color": 16775131,
     "water_color": 34047,
     "water_fog_color": 329011
   },

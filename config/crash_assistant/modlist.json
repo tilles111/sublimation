@@ -53,6 +53,30 @@
     "curseForgeHash": 3762486546,
     "modrinthHash": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa"
   },
+  "bbs-1.20.1-0.1.3-forge.jar": {
+    "jarName": "bbs-1.20.1-0.1.3-forge.jar",
+    "modId": "bbs",
+    "name": "Better Block Sounds",
+    "version": "1.20.1-0.1.3",
+    "curseForgeHash": 1911352685,
+    "modrinthHash": "972fdb8da6e1d29add810a6dcd90219dc3a5812d"
+  },
+  "better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar": {
+    "jarName": "better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar",
+    "modId": "betterclouds",
+    "name": "Better Clouds",
+    "version": "1.3.37-beta+1.20.1-forge.rev.e63efe2",
+    "curseForgeHash": 3790282095,
+    "modrinthHash": "5970c3134b95963c467c2dd76664ff02224140b6"
+  },
+  "betterfog-2.3-1.20.1.jar": {
+    "jarName": "betterfog-2.3-1.20.1.jar",
+    "modId": "betterfog",
+    "name": "BetterFog",
+    "version": "2.0",
+    "curseForgeHash": 1979109887,
+    "modrinthHash": "b13124f09ec905f16997e492dee4f2061c6a1537"
+  },
   "blueprint-1.20.1-7.1.4.jar": {
     "jarName": "blueprint-1.20.1-7.1.4.jar",
     "modId": "blueprint",
@@ -156,6 +180,22 @@
     "version": "1.1.24+1.20.1+forge",
     "curseForgeHash": 573012167,
     "modrinthHash": "ea320200878e4a49196760234a22da763671520a"
+  },
+  "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar": {
+    "jarName": "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+    "modId": "explosiveenhancement",
+    "name": "Explosive Enhancement",
+    "version": "1.1.0",
+    "curseForgeHash": 1225615187,
+    "modrinthHash": "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6"
+  },
+  "extrasounds-1.5.4+1.20.1-forge.jar": {
+    "jarName": "extrasounds-1.5.4+1.20.1-forge.jar",
+    "modId": "extrasounds",
+    "name": "ExtraSounds Next",
+    "version": "1.5.2",
+    "curseForgeHash": 240276606,
+    "modrinthHash": "40373e800760010970e100a5f546abe1cb532416"
   },
   "FarmersDelight-1.20.1-1.3.2.jar": {
     "jarName": "FarmersDelight-1.20.1-1.3.2.jar",
@@ -314,6 +354,14 @@
     "curseForgeHash": 1956610132,
     "modrinthHash": "1da5744853d17979033d5ee3cd4251b8340ea7be"
   },
+  "particlerain-4.0.0-beta.10+1.20.1-forge.jar": {
+    "jarName": "particlerain-4.0.0-beta.10+1.20.1-forge.jar",
+    "modId": "particlerain",
+    "name": "Particle Rain",
+    "version": "4.0.0-beta.10",
+    "curseForgeHash": 1318765130,
+    "modrinthHash": "26616591ebf471f787faa633b220d8f5c30e8282"
+  },
   "Placebo-1.20.1-8.6.3.jar": {
     "jarName": "Placebo-1.20.1-8.6.3.jar",
     "modId": "placebo",
@@ -402,6 +450,14 @@
     "curseForgeHash": 1062903518,
     "modrinthHash": "214e96498ac1c840e3eee553fc69ba721e4f9a64"
   },
+  "sound-physics-remastered-forge-1.20.1-1.5.1.jar": {
+    "jarName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+    "modId": "sound_physics_remastered",
+    "name": "Sound Physics Remastered",
+    "version": "1.20.1-1.5.1",
+    "curseForgeHash": 3096934868,
+    "modrinthHash": "aef2c02392624f0a12475ada809366b12ac9ec52"
+  },
   "structureessentials-1.20.1-5.0.jar": {
     "jarName": "structureessentials-1.20.1-5.0.jar",
     "modId": "structureessentials",
@@ -433,6 +489,14 @@
     "version": "1.20.1-3.1.1",
     "curseForgeHash": 3807670283,
     "modrinthHash": "704711f8abebf051945dca2ae2a1eba9c3405c57"
+  },
+  "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar": {
+    "jarName": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+    "modId": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "version": "3.6.6+1.20.1-forge",
+    "curseForgeHash": 2226879195,
+    "modrinthHash": "644731e321c53a35a0b3177a3cc6347fe38002f4"
   },
   "zfastnoise-1.0.11+1.20+forge.jar": {
     "jarName": "zfastnoise-1.0.11+1.20+forge.jar",
