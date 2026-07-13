@@ -1,11 +1,50 @@
 {
-  "type": "minecraft:add",
+  "type": "minecraft:mul",
   "argument1": {
-    "type": "minecraft:y_clamped_gradient",
-    "from_y": -64,
-    "to_y": 320,
-    "from_value": 1.5,
-    "to_value": -1.5
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:y_clamped_gradient",
+      "from_value": 1.5,
+      "from_y": -64,
+      "to_value": -1.5,
+      "to_y": 320
+    },
+    "argument2": {
+      "type": "minecraft:spline",
+      "spline": {
+        "coordinate": "minecraft:overworld/erosion",
+        "points": [
+          {
+            "location": -0.2,
+            "derivative": 0.8,
+            "value": {
+              "coordinate": "dunes:final",
+              "points": [
+                {
+                  "location": -0.25,
+                  "derivative": 0.75,
+                  "value": 0.15
+                }
+              ]
+            }
+          },
+          {
+            "location": 0.5,
+            "derivative": 0.8,
+            "value": {
+              "coordinate": "minecraft:overworld/offset",
+              "points": [
+                {
+                  "location": 0.55,
+                  "derivative": 0.75,
+                  "value": 0.15
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
   },
-  "argument2": "dunes:final"
+  "argument2": 0.4
 }

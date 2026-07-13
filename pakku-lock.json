@@ -1693,6 +1693,43 @@
             ]
         },
         {
+            "pakku_id": "B18ZLrZlOI4Pzciq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "open-loader"
+            },
+            "name": {
+                "curseforge": "Open Loader"
+            },
+            "id": {
+                "curseforge": "354339"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OpenLoader-Forge-1.20.1-19.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7613/218/OpenLoader-Forge-1.20.1-19.0.5.jar",
+                    "id": "7613218",
+                    "parent_id": "354339",
+                    "hashes": {
+                        "sha1": "a0d862da2dd1dc21d00e64508f56e45d31639686",
+                        "md5": "2aea0c0fba23c4e9e3d387c6aeefdb62"
+                    },
+                    "required_dependencies": [],
+                    "size": 23937,
+                    "date_published": "2026-02-12T07:33:55.643Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "kAn008B5GhjsIiAv",
             "type": "MOD",
             "slug": {

@@ -2,10 +2,65 @@
   "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:overworld",
     "biome_source": {
-      "type": "minecraft:fixed",
-      "biome": "sublimation:dunes"
-    }
+      "biomes": [
+        {
+          "biome": "minecraft:plains",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              0.4,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ]
+          }
+        },
+        {
+          "biome": "sublimation:dunes",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              -1,
+              0.3
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ]
+          }
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "settings": "minecraft:overworld"
   }
 }

@@ -5,7 +5,7 @@
 	"randomPlacement": 1.0,
 	"fuzziness": 1.0,
 	"shuffle": false,
-	"yRange": 64.0,
+	"yRange": 152.0,
 	"yOffset": 0.0,
 	"sparsity": 0.0,
 	"spacing": 5.25,
@@ -19,7 +19,7 @@
 	"chunkSize": 32,
 	"samplingScale": 1.0,
 	"scaleFalloffMin": 0.25,
-	"fogRangeFactor": 0.5,
+	"fogRangeFactor": 0.4,
 	"fogEndFactor": 1.0,
 	"usePersistentBuffers": true,
 	"useFrustumCulling": true,
@@ -29,7 +29,7 @@
 	"selectedPreset": 0,
 	"presets": [
 		{
-			"title": "",
+			"title": "Sublimation",
 			"key": null,
 			"editable": true,
 			"upscale_resolution_factor": 1.0,
