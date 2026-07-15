@@ -11,6 +11,9 @@ Mesas, dunes, and patches of life are placed across the surface.
 
 ## Credits
 The terrain of the dunes is mainly based off work by Uni.
+
 Pakku is from here https://github.com/juraj-hrivnak/Pakku
+
+A some of the worldgen code is based on stuff from or directly from Splendid Ranching https://github.com/Deepacat/Splendid-Ranching/tree/main
 
 Thanks to the great people on MDK for all their help :)

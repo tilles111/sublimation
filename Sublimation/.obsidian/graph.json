@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#organization",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "",
+      "query": "tag:#dev-update",
       "color": {
         "a": 1,
         "rgb": 5431378
