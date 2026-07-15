@@ -849,6 +849,42 @@
             ]
         },
         {
+            "pakku_id": "AuhjDfnVgyQ480WQ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "experimental-settings-disabler"
+            },
+            "name": {
+                "curseforge": "Experimental Settings Disabler"
+            },
+            "id": {
+                "curseforge": "926083"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "experimentalsettingsdisabler-1.20.1-3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4815/25/experimentalsettingsdisabler-1.20.1-3.0.jar",
+                    "id": "4815025",
+                    "parent_id": "926083",
+                    "hashes": {
+                        "sha1": "f03a753b276bbb1f17bc7050566a1bf9dbb0a74a",
+                        "md5": "275afc7239783415aa6ff432576fef9a"
+                    },
+                    "required_dependencies": [],
+                    "size": 8264,
+                    "date_published": "2023-10-24T18:14:55.520Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "iWtiWgIVlgHlyCPP",
             "type": "MOD",
             "slug": {
@@ -1081,6 +1117,43 @@
                     ],
                     "size": 26600,
                     "date_published": "2026-01-26T00:38:18.357Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4NWqVZ6fADGGEn4h",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "feature-recycler"
+            },
+            "name": {
+                "curseforge": "Feature Recycler"
+            },
+            "id": {
+                "curseforge": "1077985"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Feature-Recycler-forge-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5610/347/Feature-Recycler-forge-1.0.1.jar",
+                    "id": "5610347",
+                    "parent_id": "1077985",
+                    "hashes": {
+                        "sha1": "09cc3ac393731861427da593a54fe5628d44eab7",
+                        "md5": "00a678294740ecb2e6f898cb64a91cf6"
+                    },
+                    "required_dependencies": [],
+                    "size": 10082,
+                    "date_published": "2024-08-09T05:36:47.843Z"
                 }
             ]
         },

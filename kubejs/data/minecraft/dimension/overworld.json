@@ -5,6 +5,33 @@
     "biome_source": {
       "biomes": [
         {
+          "biome": "minecraft:ocean",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              0.6,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ]
+          }
+        },
+        {
           "biome": "minecraft:plains",
           "parameters": {
             "continentalness": [
@@ -13,8 +40,8 @@
             ],
             "depth": 0,
             "erosion": [
-              0.4,
-              1
+              0.15,
+              0.6
             ],
             "humidity": [
               -1,
@@ -41,7 +68,7 @@
             "depth": 0,
             "erosion": [
               -1,
-              0.3
+              0.1
             ],
             "humidity": [
               -1,
@@ -50,6 +77,33 @@
             "offset": 0,
             "temperature": [
               -1,
+              0
+            ],
+            "weirdness": [
+              -1,
+              1
+            ]
+          }
+        },
+        {
+          "biome": "sublimation:red_dunes",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              -1,
+              0.1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              0,
               1
             ],
             "weirdness": [
