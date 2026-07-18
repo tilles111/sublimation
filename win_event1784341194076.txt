@@ -1,0 +1,49 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2026-07-17 19:19:50.394 PDT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Faulting application name: dwm.exe, version: 10.0.26100.8115, time stamp: 0x908014a3
+  Faulting module name: udwm.dll, version: 10.0.26100.8246, time stamp: 0x0d1a29e8
+  Exception code: 0xc0000005
+  Fault offset: 0x00000000000ab224
+  Faulting process id: 0xB70
+  Faulting application start time: 0x1DD0EBE87BA4DC5
+  Faulting application path: C:\WINDOWS\system32\dwm.exe
+  Faulting module path: C:\WINDOWS\SYSTEM32\udwm.dll
+  Report Id: 64c2b3a7-68af-492b-8918-710b828f81bd
+  Faulting package full name: 
+  Faulting package-relative application ID:
+
+
+Details:
+  - AppName: dwm.exe
+  - AppVersion: 10.0.26100.8115
+  - AppTimeStamp: 908014a3
+  - ModuleName: udwm.dll
+  - ModuleVersion: 10.0.26100.8246
+  - ModuleTimeStamp: 0d1a29e8
+  - ExceptionCode: c0000005
+  - FaultingOffset: 00000000000ab224
+  - Process ID: 2928 [0xb70]
+  - ProcessCreationTime: 0x1dd0ebe87ba4dc5
+  - AppPath: C:\WINDOWS\system32\dwm.exe
+  - ModulePath: C:\WINDOWS\SYSTEM32\udwm.dll
+  - IntegratorReportId: 64c2b3a7-68af-492b-8918-710b828f81bd
+  - Process ID: 2928 [0xB70]
+  - Start Time: 2026-07-08 02:45:37.469 PDT [0x1DD0EBE87BA4DC5]
+  - Exception Code: 3221225477 [0xc0000005]
+-----------------------
+

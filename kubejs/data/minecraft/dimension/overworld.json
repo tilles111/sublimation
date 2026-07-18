@@ -5,7 +5,7 @@
     "biome_source": {
       "biomes": [
         {
-          "biome": "minecraft:ocean",
+          "biome": "sublimation:arid_oasis",
           "parameters": {
             "continentalness": [
               -1,
@@ -13,17 +13,17 @@
             ],
             "depth": 0,
             "erosion": [
-              0.6,
-              1
+              0.15,
+              0.6
             ],
             "humidity": [
-              -1,
+              -0.3,
               1
             ],
             "offset": 0,
             "temperature": [
               -1,
-              1
+              0.1
             ],
             "weirdness": [
               -1,
@@ -32,7 +32,34 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "sublimation:sparse_brushland",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              0.15,
+              0.6
+            ],
+            "humidity": [
+              -0.5,
+              -0.3
+            ],
+            "offset": 0,
+            "temperature": [
+              0.1,
+              0.5
+            ],
+            "weirdness": [
+              -1,
+              1
+            ]
+          }
+        },
+        {
+          "biome": "sublimation:rocky_lowlands",
           "parameters": {
             "continentalness": [
               -1,
@@ -45,11 +72,11 @@
             ],
             "humidity": [
               -1,
-              1
+              -0.5
             ],
             "offset": 0,
             "temperature": [
-              -1,
+              0.5,
               1
             ],
             "weirdness": [
@@ -77,11 +104,38 @@
             "offset": 0,
             "temperature": [
               -1,
-              0
+              -0.2
             ],
             "weirdness": [
               -1,
               1
+            ]
+          }
+        },
+        {
+          "biome": "sublimation:middle_dunes",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              -1,
+              0.1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              -0.2,
+              0.2
+            ],
+            "weirdness": [
+              -1,
+              0.35
             ]
           }
         },
@@ -103,11 +157,38 @@
             ],
             "offset": 0,
             "temperature": [
-              0,
+              0.2,
               1
             ],
             "weirdness": [
               -1,
+              0.35
+            ]
+          }
+        },
+        {
+          "biome": "sublimation:sand_worm_territory",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              -1,
+              0.1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              0.35,
               1
             ]
           }

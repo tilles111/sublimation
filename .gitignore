@@ -129,3 +129,6 @@ config/xaeroworldmap.txt
 config/xaerominimap_entities.json
 instance.json
 instance.png
+.mixin.out/class/net/minecraft/client/particle/SingleQuadParticle.class
+.mixin.out/class/net/minecraft/client/particle/ParticleEngine.class
+/.mixin.out
