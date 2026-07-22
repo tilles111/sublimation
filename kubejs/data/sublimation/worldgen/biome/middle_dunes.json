@@ -2,9 +2,9 @@
   "carvers": {},
   "downfall": 0,
   "effects": {
-    "fog_color": 15586480,
-    "grass_color": 6389290,
-    "foliage_color": 6389290,
+    "fog_color": 15582377,
+    "grass_color": 7504955,
+    "foliage_color": 7504955,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2,
@@ -24,14 +24,24 @@
   "features": [
     [],
     [],
+    [
+      "sublimation:red_arid_sandstone_rock",
+      "sublimation:arid_sandstone_rock",
+      "sublimation:crater",
+      "sublimation:crater_large"
+    ],
     [],
     [],
     [],
     [],
     [],
     [],
-    [],
-    [],
+    [
+      "minecraft:patch_dead_bush",
+      "minecraft:patch_cactus_desert",
+      "sublimation:dunes_crop",
+      "atmospheric:patch_arid_sprouts"
+    ],
     []
   ],
   "has_precipitation": false,
@@ -39,7 +49,14 @@
   "spawners": {
     "ambient": [],
     "axolotls": [],
-    "creature": [],
+    "creature": [
+      {
+        "type": "atmospheric:cochineal",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 1
+      }
+    ],
     "misc": [],
     "monster": [],
     "underground_water_creature": [],

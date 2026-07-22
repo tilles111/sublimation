@@ -1,0 +1,53 @@
+#organization[[Sublimation]]
+- [ ] Features
+	- [x] Sandworm Territory
+		- [x] Fossils
+		- [x] Rocks
+		- [x] Sprouts
+		- [x] Pebbles
+	- [ ] Arid Oasis
+		- [ ] Limestone Boulders
+		- [ ] Yucca Trees
+		- [x] Pebbles & Twigs
+		- [ ] Silt patches
+		- [ ] Grass-like
+		- [ ] Crops
+		- [ ] Flowers
+	- [ ] Sparse Brushland
+		- [ ] Limestone Boulders
+		- [ ] Shrubs & Quark Hedges
+		- [x] Pebbles & Twigs
+		- [ ] Silt patches
+		- [ ] Grass-like
+		- [ ] Crops
+		- [ ] Flowers
+	- [ ] Rocky Lowlands
+		- [ ] Boulders & Rock Piles
+		- [ ] Gravel & Silt patches
+		- [ ] Copper Crystals
+		- [x] Pebbles
+	- [ ] Middle Dunes
+		- [ ] Copper Crystals?
+	- [x] Pebbles for Red & Middle Dunes
+- [ ] Strata
+	- [ ] Make the world more shallow and kill caves
+	- [ ] Limestone & Jasper
+- [ ] Fill in missing blocks
+	- [ ] Surface Chalcanthite Crystals
+	- [ ] Salt Flats
+	- [ ] Cobbled Limestone and Jasper
+- [ ] Ore veins
+	- [ ] Chalcanthite
+	- [ ] Chalcopyrite - Pyrite - Gold
+	- [ ] Bauxite - Hematite
+	- [ ] Galena - Silver
+	- [ ] Limonite
+	- [ ] Redstone - Ruby - Kaolinite
+	- [ ] Chromite - Olivine - Corundum
+	- [ ] Coal - Anthracite
+- [ ] Passive Mobs
+	- [x] Spawning
+	- [ ] Camel (potentially reflavored)
+	- [ ] Dusthog (sandy pig lol)
+
+NOTE TO SELF: Add to-dos for the hostile mobs (crawlers and sandworms), ship wreckage, and alien ruins

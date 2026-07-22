@@ -2,9 +2,9 @@
   "carvers": {},
   "downfall": 0,
   "effects": {
-    "fog_color": 15586480,
-    "grass_color": 6389290,
-    "foliage_color": 6389290,
+    "fog_color": 12894880,
+    "grass_color": 7504955,
+    "foliage_color": 7504955,
     "mood_sound": {
       "block_search_extent": 8,
       "offset": 2,
@@ -39,7 +39,13 @@
   "spawners": {
     "ambient": [],
     "axolotls": [],
-    "creature": [],
+    "creature": [
+      {
+        "type": "minecraft:camel",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      }],
     "misc": [],
     "monster": [],
     "underground_water_creature": [],

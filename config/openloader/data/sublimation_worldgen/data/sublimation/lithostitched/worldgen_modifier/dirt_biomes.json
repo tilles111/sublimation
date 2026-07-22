@@ -19,7 +19,10 @@
           "type": "minecraft:condition",
           "if_true": {
             "type": "minecraft:biome",
-            "biome_is": ["sublimation:middle_dunes"]
+            "biome_is": [
+              "sublimation:arid_oasis",
+              "sublimation:sparse_brushland"
+            ]
           },
           "then_run": {
             "type": "minecraft:sequence",
@@ -55,15 +58,9 @@
                         "then_run": {
                           "type": "minecraft:block",
                           "result_state": {
-                            "Name": "atmospheric:red_arid_sand"
+                            "Name": "minecraft:coarse_dirt"
                           }
                         }
-                      }
-                    },
-                    {
-                      "type": "minecraft:block",
-                      "result_state": {
-                        "Name": "atmospheric:red_arid_sandstone"
                       }
                     }
                   ]
@@ -100,16 +97,10 @@
                         "then_run": {
                           "type": "minecraft:block",
                           "result_state": {
-                            "Name": "atmospheric:red_arid_sand"
+                            "Name": "minecraft:packed_mud"
                           }
                         }
                      }
-                    },
-                    {
-                      "type": "minecraft:block",
-                      "result_state": {
-                        "Name": "atmospheric:red_arid_sandstone"
-                      }
                     }
                   ]
                 }
@@ -126,14 +117,8 @@
                 "then_run": {
                   "type": "minecraft:block",
                   "result_state": {
-                    "Name": "atmospheric:arid_sand"
+                    "Name": "minecraft:dirt"
                   }
-                }
-              },
-              {
-                "type": "minecraft:block",
-                "result_state": {
-                  "Name": "atmospheric:arid_sandstone"
                 }
               }
             ]

@@ -1,6 +1,12 @@
 {
   "replace": false,
   "values": [
-    "sublimation:dunes"
+    "sublimation:dunes",
+    "sublimation:red_dunes",
+    "sublimation:middle_dunes",
+    "sublimation:sand_worm_territory",
+    "sublimation:rocky_lowlands",
+    "sublimation:arid_oasis",
+    "sublimation:sparse_brushland"
   ]
 }
