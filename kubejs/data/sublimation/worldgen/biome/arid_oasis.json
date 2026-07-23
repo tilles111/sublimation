@@ -24,14 +24,27 @@
   "features": [
     [],
     [],
+    [
+      "minecraft:forest_rock"
+    ],
     [],
     [],
     [],
+    [
+      "sublimation:disk_silt"
+    ],
     [],
     [],
-    [],
-    [],
-    [],
+    [
+      "sublimation:oasis_crop",
+      "sublimation:oasis_flowers",
+      "sublimation:yucca_flowers",
+      "atmospheric:patch_arid_sprouts",
+      "atmospheric:patch_dune_grass",
+      "atmospheric:badlands_yucca_trees",
+      "atmospheric:trees_dunes",
+      "atmospheric:patch_yucca_flower_extra"
+    ],
     []
   ],
   "has_precipitation": false,

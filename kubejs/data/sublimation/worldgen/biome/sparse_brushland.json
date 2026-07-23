@@ -31,7 +31,13 @@
     [],
     [],
     [],
-    [],
+    [
+      "sublimation:brushland_crop",
+      "atmospheric:patch_arid_sprouts",
+      "atmospheric:dragon_roots",
+      "atmospheric:trees_scrubland",
+      "atmospheric:flower_scrubland"
+    ],
     []
   ],
   "has_precipitation": false,

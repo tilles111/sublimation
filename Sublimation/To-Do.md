@@ -7,23 +7,23 @@
 		- [x] Pebbles
 	- [ ] Arid Oasis
 		- [ ] Limestone Boulders
-		- [ ] Yucca Trees
+		- [x] Yucca Trees
 		- [x] Pebbles & Twigs
 		- [ ] Silt patches
-		- [ ] Grass-like
-		- [ ] Crops
+		- [x] Grass-like
+		- [x] Crops
 		- [ ] Flowers
 	- [ ] Sparse Brushland
 		- [ ] Limestone Boulders
-		- [ ] Shrubs & Quark Hedges
+		- [x] Shrubs
 		- [x] Pebbles & Twigs
 		- [ ] Silt patches
-		- [ ] Grass-like
-		- [ ] Crops
-		- [ ] Flowers
+		- [x] Grass-like
+		- [x] Crops
+		- [x] Flowers
 	- [ ] Rocky Lowlands
-		- [ ] Boulders & Rock Piles
-		- [ ] Gravel & Silt patches
+		- [ ] Rocks, lots and lots of rocks
+		- [ ] Silt patches
 		- [ ] Copper Crystals
 		- [x] Pebbles
 	- [ ] Middle Dunes
@@ -38,12 +38,11 @@
 	- [ ] Cobbled Limestone and Jasper
 - [ ] Ore veins
 	- [ ] Chalcanthite
-	- [ ] Chalcopyrite - Pyrite - Gold
-	- [ ] Bauxite - Hematite
+	- [ ] Goethite - Hematite - Pyrolusite
 	- [ ] Galena - Silver
-	- [ ] Limonite
 	- [ ] Redstone - Ruby - Kaolinite
-	- [ ] Chromite - Olivine - Corundum
+	- [ ] Millerite - Chromite - Olivine
+	- [ ] Cordierite - Iolite - Blue Garnet
 	- [ ] Coal - Anthracite
 - [ ] Passive Mobs
 	- [x] Spawning
