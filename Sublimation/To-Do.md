@@ -5,48 +5,51 @@
 		- [x] Rocks
 		- [x] Sprouts
 		- [x] Pebbles
-	- [ ] Arid Oasis
-		- [ ] Limestone Boulders
+	- [x] Arid Oasis
+		- [x] Limestone Boulders
 		- [x] Yucca Trees
 		- [x] Pebbles & Twigs
-		- [ ] Silt patches
-		- [x] Grass-like
-		- [x] Crops
-		- [ ] Flowers
-	- [ ] Sparse Brushland
-		- [ ] Limestone Boulders
-		- [x] Shrubs
-		- [x] Pebbles & Twigs
-		- [ ] Silt patches
+		- [x] Silt patches
 		- [x] Grass-like
 		- [x] Crops
 		- [x] Flowers
-	- [ ] Rocky Lowlands
-		- [ ] Rocks, lots and lots of rocks
-		- [ ] Silt patches
-		- [ ] Copper Crystals
+	- [x] Sparse Brushland
+		- [x] Limestone Boulders
+		- [x] Shrubs
+		- [x] Pebbles & Twigs
+		- [x] Silt patches
+		- [x] Grass-like
+		- [x] Crops
+		- [x] Flowers
+	- [x] Rocky Lowlands
+		- [x] Rocks, lots and lots of rocks
+		- [x] Silt patches
+		- [x] Agave
 		- [x] Pebbles
-	- [ ] Middle Dunes
-		- [ ] Copper Crystals?
 	- [x] Pebbles for Red & Middle Dunes
+- [ ] ACTUALLY ADD YOUR MODS!!!!
 - [ ] Strata
 	- [ ] Make the world more shallow and kill caves
-	- [ ] Limestone & Jasper
+	- [ ] Decide on strata for biomes
+- [ ] Galosphere Crystal Spikes
+	- [ ] Crystal Variants of the Dunes Biomes
+	- [ ] Chalcanthite in Rocky Lowlands, Dunes, and Middle Dunes
+	- [ ] Anglesite in Rocky Lowlands, Red Dunes, and Middle Dunes
+	- [ ] Retextures, lang, and loot tables
 - [ ] Fill in missing blocks
-	- [ ] Surface Chalcanthite Crystals
 	- [ ] Salt Flats
-	- [ ] Cobbled Limestone and Jasper
-- [ ] Ore veins
-	- [ ] Chalcanthite
-	- [ ] Goethite - Hematite - Pyrolusite
-	- [ ] Galena - Silver
-	- [ ] Redstone - Ruby - Kaolinite
-	- [ ] Millerite - Chromite - Olivine
-	- [ ] Cordierite - Iolite - Blue Garnet
-	- [ ] Coal - Anthracite
+	- [ ] Cobbled variants
 - [ ] Passive Mobs
 	- [x] Spawning
 	- [ ] Camel (potentially reflavored)
 	- [ ] Dusthog (sandy pig lol)
+- [ ] Ore veins
+	- [ ] Chalcanthite
+	- [ ] Goethite - Hematite - Pyrolusite
+	- [ ] Galena - Anglesite - Silver
+	- [ ] Redstone - Ruby - Kaolinite
+	- [ ] Millerite - Chromite - Olivine
+	- [ ] Cordierite - Iolite - Blue Garnet
+	- [ ] Coal - Anthracite
 
 NOTE TO SELF: Add to-dos for the hostile mobs (crawlers and sandworms), ship wreckage, and alien ruins

@@ -24,17 +24,21 @@
   "features": [
     [],
     [],
-    [],
-    [],
-    [],
-    [],
+    [
+      "minecraft:forest_rock"
+    ],
     [],
     [],
     [],
     [
+      "sublimation:disk_silt"
+    ],
+    [],
+    [],
+    [
       "sublimation:brushland_crop",
+      "sublimation:yucca_flowers",
       "atmospheric:patch_arid_sprouts",
-      "atmospheric:dragon_roots",
       "atmospheric:trees_scrubland",
       "atmospheric:flower_scrubland"
     ],

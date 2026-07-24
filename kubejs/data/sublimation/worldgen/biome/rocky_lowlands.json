@@ -24,14 +24,24 @@
   "features": [
     [],
     [],
+    [
+      "sublimation:limestone_rock",
+      "sublimation:gravel_rock",
+      "minecraft:forest_rock",
+      "minecraft:forest_rock"
+    ],
     [],
     [],
     [],
+    [
+      "sublimation:disk_silt"
+    ],
     [],
     [],
-    [],
-    [],
-    [],
+    [
+      "sublimation:lowlands_flowers",
+      "sublimation:copper_crystal"
+    ],
     []
   ],
   "has_precipitation": false,

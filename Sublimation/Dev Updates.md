@@ -15,5 +15,5 @@ Finalized biome gen (for the most part)
 Mostly just surface rules and biome gen tweaks
 ## [[Jul 21, 2026]]
 More worldgen work.
-## [[Jul 22, 2026]]
+## [[Jul 22-23, 2026]]
 Did the features for the Arid Oasis Biome

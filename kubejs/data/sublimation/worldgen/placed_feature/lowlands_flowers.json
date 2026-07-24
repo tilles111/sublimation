@@ -1,9 +1,9 @@
 {
-  "feature": "sublimation:yucca_flowers",
+  "feature": "sublimation:lowlands_flowers",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
-      "chance": 5
+      "chance": 3
     },
     {
       "type": "minecraft:in_square"

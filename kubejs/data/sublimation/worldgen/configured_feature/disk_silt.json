@@ -23,7 +23,9 @@
       "blocks": [
         "minecraft:dirt",
         "twigs:silt",
-        "minecraft:coarse_dirt"
+        "minecraft:coarse_dirt",
+        "minecraft:gravel",
+        "quark:limestone"
       ]
     }
   }
