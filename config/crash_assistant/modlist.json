@@ -109,6 +109,14 @@
     "curseForgeHash": 3739200641,
     "modrinthHash": "8c98ee795e2e32189cb1b9bea53a7e310742e19a"
   },
+  "Botania-1.20.1-454-FORGE.jar": {
+    "jarName": "Botania-1.20.1-454-FORGE.jar",
+    "modId": "botania",
+    "name": "Botania",
+    "version": "1.20.1-454-FORGE",
+    "curseForgeHash": 3773314933,
+    "modrinthHash": "7e167de1c70738fd9f29a00556f1c5ebb1daf34d"
+  },
   "chloride-FORGE-mc1.20.1-v1.7.7.jar": {
     "jarName": "chloride-FORGE-mc1.20.1-v1.7.7.jar",
     "modId": "chloride",
@@ -124,6 +132,14 @@
     "version": "11.1.136",
     "curseForgeHash": 635589968,
     "modrinthHash": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+  },
+  "compressedengineering-1.4.8.jar": {
+    "jarName": "compressedengineering-1.4.8.jar",
+    "modId": "compressedengineering",
+    "name": "Compressed Engineering",
+    "version": "1.4.8",
+    "curseForgeHash": 3075069353,
+    "modrinthHash": "3589454ffc7cbe38fb60bf4f4bf2bbb42b6c1558"
   },
   "configured-forge-1.20.1-2.2.3.jar": {
     "jarName": "configured-forge-1.20.1-2.2.3.jar",
@@ -149,6 +165,14 @@
     "curseForgeHash": 2144346557,
     "modrinthHash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
   },
+  "copycats-3.0.7+mc.1.20.1-forge.jar": {
+    "jarName": "copycats-3.0.7+mc.1.20.1-forge.jar",
+    "modId": "copycats",
+    "name": "Create: Copycats+",
+    "version": "3.0.7+mc.1.20.1-forge",
+    "curseForgeHash": 3504964036,
+    "modrinthHash": "5d0f497695fc2ee4ef89f1898458882b9d2d3aad"
+  },
   "CrashAssistant-forge-1.19-1.20.1-1.11.9.jar": {
     "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.9.jar",
     "modId": "crash_assistant",
@@ -156,6 +180,14 @@
     "version": "1.11.9",
     "curseForgeHash": 289595968,
     "modrinthHash": "e94c49268c83301ee066dca9501c4b5fa902b33d"
+  },
+  "create-1.20.1-6.0.8.jar": {
+    "jarName": "create-1.20.1-6.0.8.jar",
+    "modId": "create",
+    "name": "Create",
+    "version": "6.0.8",
+    "curseForgeHash": 2156032012,
+    "modrinthHash": "b13d912b9247a38d66d11598c121442585a1c1e9"
   },
   "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar": {
     "jarName": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
@@ -172,6 +204,14 @@
     "version": "1.20.1-3.7",
     "curseForgeHash": 2075014231,
     "modrinthHash": "18be26e340ca77a05ee925fdb51400138b8c6539"
+  },
+  "curios-forge-5.14.1+1.20.1.jar": {
+    "jarName": "curios-forge-5.14.1+1.20.1.jar",
+    "modId": "curios",
+    "name": "Curios API",
+    "version": "5.14.1+1.20.1",
+    "curseForgeHash": 1288931317,
+    "modrinthHash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
   },
   "cyanide-forge-1.20.1-4.1.1.jar": {
     "jarName": "cyanide-forge-1.20.1-4.1.1.jar",
@@ -301,6 +341,14 @@
     "curseForgeHash": 2207094183,
     "modrinthHash": "319af234013d646ef289515efa8bb0c3df2ca34d"
   },
+  "framework-forge-1.20.1-0.8.0.jar": {
+    "jarName": "framework-forge-1.20.1-0.8.0.jar",
+    "modId": "framework",
+    "name": "Framework",
+    "version": "0.8.0",
+    "curseForgeHash": 174485922,
+    "modrinthHash": "27347879f8760a7bc0b4bd71977abc50e498811c"
+  },
   "fzzy_config-0.7.6+1.20.1+forge.jar": {
     "jarName": "fzzy_config-0.7.6+1.20.1+forge.jar",
     "modId": "fzzy_config",
@@ -308,6 +356,22 @@
     "version": "0.7.6+1.20.1+forge",
     "curseForgeHash": 3620637257,
     "modrinthHash": "2e9ca1c5f028c251e1bc18b9ebaa06d401c8e624"
+  },
+  "Galosphere-1.20.1-1.4.1-Forge.jar": {
+    "jarName": "Galosphere-1.20.1-1.4.1-Forge.jar",
+    "modId": "galosphere",
+    "name": "Galosphere",
+    "version": "1.20.1-1.4.1",
+    "curseForgeHash": 2391171831,
+    "modrinthHash": "0b21651dc768383bcd4b6cc417335b4c43d208b3"
+  },
+  "geckolib-forge-1.20.1-4.8.4.jar": {
+    "jarName": "geckolib-forge-1.20.1-4.8.4.jar",
+    "modId": "geckolib",
+    "name": "GeckoLib 4",
+    "version": "4.8.4",
+    "curseForgeHash": 3690314662,
+    "modrinthHash": "81982cc287f80ffabb2fd36d22cc95e4255c739d"
   },
   "gnetum-2.4.4.jar": {
     "jarName": "gnetum-2.4.4.jar",
@@ -317,6 +381,14 @@
     "curseForgeHash": 586167816,
     "modrinthHash": "bca1a7d6bc2d4a383ab9bfb82d6405196680c748"
   },
+  "grounded-1.20.1-0.1.1-forge.jar": {
+    "jarName": "grounded-1.20.1-0.1.1-forge.jar",
+    "modId": "grounded",
+    "name": "Grounded",
+    "version": "1.20.1-0.1.1",
+    "curseForgeHash": 2404196018,
+    "modrinthHash": "ca514de2d5f978236f702642e17d814304134e58"
+  },
   "ImmediatelyFast-Forge-1.5.4+1.20.4.jar": {
     "jarName": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
     "modId": "immediatelyfast",
@@ -324,6 +396,46 @@
     "version": "1.5.4+1.20.4",
     "curseForgeHash": 4234781540,
     "modrinthHash": "e2e60485a0c3efa72f1948c952b095150e3ba4fc"
+  },
+  "ImmersiveConvergence-1.20.1-1.0.0-b31-beta.jar": {
+    "jarName": "ImmersiveConvergence-1.20.1-1.0.0-b31-beta.jar",
+    "modId": "immersiveconvergence",
+    "name": "Immersive Convergence",
+    "version": "1.0.0-b31-beta",
+    "curseForgeHash": 1653583166,
+    "modrinthHash": "80e1a2c1374ff0d13d25d0a67697e7e66dfcef09"
+  },
+  "ImmersiveEngineering-1.20.1-10.2.0-183.jar": {
+    "jarName": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+    "modId": "immersiveengineering",
+    "name": "Immersive Engineering",
+    "version": "1.20.1-10.2.0-183",
+    "curseForgeHash": 1984535685,
+    "modrinthHash": "b6e403e0e5be1802268be366ad1a7791f07fb793"
+  },
+  "immersivefixes-1.6.1.jar": {
+    "jarName": "immersivefixes-1.6.1.jar",
+    "modId": "immersivefixes",
+    "name": "ImmersiveFixes",
+    "version": "1.6.1",
+    "curseForgeHash": 1998592201,
+    "modrinthHash": "acae8554a8cd9c5088ef581fcae71d3ceecb555b"
+  },
+  "ImmersiveIndustry-1.20.1-0.2.4.jar": {
+    "jarName": "ImmersiveIndustry-1.20.1-0.2.4.jar",
+    "modId": "immersiveindustry",
+    "name": "Immersive Industry",
+    "version": "1.20.1-0.2.4",
+    "curseForgeHash": 1172296793,
+    "modrinthHash": "b66280cebb97cada77bd2f94bead864bf492e6a9"
+  },
+  "ImmersivePetroleum-1.20.1-4.3.1-36b.jar": {
+    "jarName": "ImmersivePetroleum-1.20.1-4.3.1-36b.jar",
+    "modId": "immersivepetroleum",
+    "name": "Immersive Petroleum",
+    "version": "4.3.0-36",
+    "curseForgeHash": 2722529283,
+    "modrinthHash": "c45153bc169fbff68c9321367f6788ebd84e1584"
   },
   "ImmersiveUI-FORGE-0.3.0.jar": {
     "jarName": "ImmersiveUI-FORGE-0.3.0.jar",
@@ -356,6 +468,14 @@
     "version": "15.20.0.130",
     "curseForgeHash": 2836928893,
     "modrinthHash": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34"
+  },
+  "jeimultiblocks-1.20.1-1.0.6.jar": {
+    "jarName": "jeimultiblocks-1.20.1-1.0.6.jar",
+    "modId": "jeimultiblocks",
+    "name": "Just Enough Immersive Multiblocks",
+    "version": "1.0.6",
+    "curseForgeHash": 769186738,
+    "modrinthHash": "e1aea2a60db221bbf2c2dc476b8969501186f48a"
   },
   "kotlinforforge-4.12.0-all.jar": {
     "jarName": "kotlinforforge-4.12.0-all.jar",
@@ -394,6 +514,30 @@
     "curseForgeHash": 1302311926,
     "modrinthHash": "ac0da227ebc7606affb7017ecd31cd351c9113da"
   },
+  "MCT-ImmersiveTechnology-1.20.1-2.1.0-b7105-release.jar": {
+    "jarName": "MCT-ImmersiveTechnology-1.20.1-2.1.0-b7105-release.jar",
+    "modId": "immersivetechnology",
+    "name": "Immersive Technology",
+    "version": "2.1.0-b7105-release",
+    "curseForgeHash": 2040300371,
+    "modrinthHash": "7a10176650ed457a79d92a444a847b389f48ff52"
+  },
+  "Mekanism-1.20.1-10.4.16.80.jar": {
+    "jarName": "Mekanism-1.20.1-10.4.16.80.jar",
+    "modId": "mekanism",
+    "name": "Mekanism",
+    "version": "10.4.16",
+    "curseForgeHash": 2493616045,
+    "modrinthHash": "b7f12ae710888b01746507a0aa8cb375f5897158"
+  },
+  "MekanismGenerators-1.20.1-10.4.16.80.jar": {
+    "jarName": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+    "modId": "mekanismgenerators",
+    "name": "Mekanism: Generators",
+    "version": "10.4.16",
+    "curseForgeHash": 146659146,
+    "modrinthHash": "53fa707fd204ca1dd099a08995c2197145ff9a36"
+  },
   "modernfix-forge-5.27.25+mc1.20.1.jar": {
     "jarName": "modernfix-forge-5.27.25+mc1.20.1.jar",
     "modId": "modernfix",
@@ -401,6 +545,14 @@
     "version": "5.27.25+mc1.20.1",
     "curseForgeHash": 3890710334,
     "modrinthHash": "09c1a0e87501d46b0b999eb2527fd3406625553a"
+  },
+  "moonlight-1.20-2.16.34-forge.jar": {
+    "jarName": "moonlight-1.20-2.16.34-forge.jar",
+    "modId": "moonlight",
+    "name": "Moonlight Library",
+    "version": "1.20-2.16.34",
+    "curseForgeHash": 1757026364,
+    "modrinthHash": "5e20f2f0ce56a534accb32f80853d5a246599a4d"
   },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -450,6 +602,14 @@
     "curseForgeHash": 2366778636,
     "modrinthHash": "e3017bc0fda90f90cf55c96fa020b52420d8c80e"
   },
+  "Patchouli-1.20.1-85-FORGE.jar": {
+    "jarName": "Patchouli-1.20.1-85-FORGE.jar",
+    "modId": "patchouli",
+    "name": "Patchouli",
+    "version": "1.20.1-85-FORGE",
+    "curseForgeHash": 1383309397,
+    "modrinthHash": "d4614507d6e4c7cb464bba5eca891978272062ef"
+  },
   "Perception-FORGE-0.1.4+1.20.1.jar": {
     "jarName": "Perception-FORGE-0.1.4+1.20.1.jar",
     "modId": "perception",
@@ -497,6 +657,14 @@
     "version": "2001.2.3-build.10",
     "curseForgeHash": 1432081092,
     "modrinthHash": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1"
+  },
+  "ScorchedGuns-0.5.5-1.20.1.jar": {
+    "jarName": "ScorchedGuns-0.5.5-1.20.1.jar",
+    "modId": "scguns",
+    "name": "Scorched Guns",
+    "version": "0.5.5",
+    "curseForgeHash": 3640758992,
+    "modrinthHash": "a65d1a6fea7b44602c63175a8ea9a144d83a5de5"
   },
   "Searchables-forge-1.20.1-1.0.3.jar": {
     "jarName": "Searchables-forge-1.20.1-1.0.3.jar",
@@ -569,6 +737,14 @@
     "version": "1.20.1-1.5.1",
     "curseForgeHash": 3096934868,
     "modrinthHash": "aef2c02392624f0a12475ada809366b12ac9ec52"
+  },
+  "Steam_Rails-1.7.2+forge-mc1.20.1.jar": {
+    "jarName": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+    "modId": "railways",
+    "name": "Create: Steam \u0027n\u0027 Rails",
+    "version": "1.7.2+forge-mc1.20.1",
+    "curseForgeHash": 3883819242,
+    "modrinthHash": "15d317afd2459368b19c23f2bdfefdeb87708bdd"
   },
   "structureessentials-1.20.1-5.0.jar": {
     "jarName": "structureessentials-1.20.1-5.0.jar",

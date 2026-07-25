@@ -1,5 +1,5 @@
 #organization[[Sublimation]]
-- [ ] Features
+- [x] Features
 	- [x] Sandworm Territory
 		- [x] Fossils
 		- [x] Rocks
@@ -27,26 +27,24 @@
 		- [x] Agave
 		- [x] Pebbles
 	- [x] Pebbles for Red & Middle Dunes
-- [ ] ACTUALLY ADD YOUR MODS!!!!
+- [x] ACTUALLY ADD YOUR MODS!!!!
+- [ ] Integrate Grounded for soils
 - [ ] Strata
 	- [ ] Make the world more shallow and kill caves
 	- [ ] Decide on strata for biomes
-- [ ] Galosphere Crystal Spikes
-	- [ ] Crystal Variants of the Dunes Biomes
-	- [ ] Chalcanthite in Rocky Lowlands, Dunes, and Middle Dunes
-	- [ ] Anglesite in Rocky Lowlands, Red Dunes, and Middle Dunes
-	- [ ] Retextures, lang, and loot tables
 - [ ] Fill in missing blocks
 	- [ ] Salt Flats
-	- [ ] Cobbled variants
+	- [ ] Chalcanthite and Anglesite Crystal Blocks
+- [ ] Galosphere Crystal Spikes
+- [ ] Make features unable to generate on salt flats
 - [ ] Passive Mobs
 	- [x] Spawning
-	- [ ] Camel (potentially reflavored)
+	- [ ] Camel (reflavored)
 	- [ ] Dusthog (sandy pig lol)
 - [ ] Ore veins
 	- [ ] Chalcanthite
+	- [ ] Anglesite
 	- [ ] Goethite - Hematite - Pyrolusite
-	- [ ] Galena - Anglesite - Silver
 	- [ ] Redstone - Ruby - Kaolinite
 	- [ ] Millerite - Chromite - Olivine
 	- [ ] Cordierite - Iolite - Blue Garnet

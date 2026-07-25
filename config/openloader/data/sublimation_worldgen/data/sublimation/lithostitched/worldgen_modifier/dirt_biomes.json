@@ -58,7 +58,7 @@
                         "then_run": {
                           "type": "minecraft:block",
                           "result_state": {
-                            "Name": "minecraft:coarse_dirt"
+                            "Name": "grounded:earthen_clay"
                           }
                         }
                       }
@@ -97,7 +97,7 @@
                         "then_run": {
                           "type": "minecraft:block",
                           "result_state": {
-                            "Name": "minecraft:packed_mud"
+                            "Name": "grounded:earthen_clay"
                           }
                         }
                      }
@@ -117,7 +117,7 @@
                 "then_run": {
                   "type": "minecraft:block",
                   "result_state": {
-                    "Name": "minecraft:dirt"
+                    "Name": "grounded:sandy_dirt"
                   }
                 }
               }
