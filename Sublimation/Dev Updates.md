@@ -17,3 +17,7 @@ Mostly just surface rules and biome gen tweaks
 More worldgen work.
 ## [[Jul 22-23, 2026]]
 Did the features for the Arid Oasis Biome
+## [[Jul 24, 2026]]
+Finally added mods.
+## [[Jul 30, 2026]]
+Honestly IDK

@@ -28,19 +28,11 @@
 		- [x] Pebbles
 	- [x] Pebbles for Red & Middle Dunes
 - [x] ACTUALLY ADD YOUR MODS!!!!
-- [ ] Integrate Grounded for soils
-- [ ] Strata
-	- [ ] Make the world more shallow and kill caves
-	- [ ] Decide on strata for biomes
+- [x] Integrate Grounded for soils
+- [x] Strata
 - [ ] Fill in missing blocks
 	- [ ] Salt Flats
 	- [ ] Chalcanthite and Anglesite Crystal Blocks
-- [ ] Galosphere Crystal Spikes
-- [ ] Make features unable to generate on salt flats
-- [ ] Passive Mobs
-	- [x] Spawning
-	- [ ] Camel (reflavored)
-	- [ ] Dusthog (sandy pig lol)
 - [ ] Ore veins
 	- [ ] Chalcanthite
 	- [ ] Anglesite
@@ -49,5 +41,12 @@
 	- [ ] Millerite - Chromite - Olivine
 	- [ ] Cordierite - Iolite - Blue Garnet
 	- [ ] Coal - Anthracite
+- [ ] Galosphere Crystal Spikes
+- [ ] Make features unable to generate on salt flats
+- [ ] Make the world more shallow and kill caves
+- [ ] Passive Mobs
+	- [x] Spawning
+	- [ ] Camel (reflavored)
+	- [ ] Dusthog (sandy pig lol)
 
 NOTE TO SELF: Add to-dos for the hostile mobs (crawlers and sandworms), ship wreckage, and alien ruins

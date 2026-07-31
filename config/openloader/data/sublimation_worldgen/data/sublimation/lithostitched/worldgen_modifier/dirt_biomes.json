@@ -11,7 +11,7 @@
       "if_true": {
         "type": "minecraft:stone_depth",
         "add_surface_depth": true,
-        "offset": 3,
+        "offset": 5,
         "secondary_depth_range": 0,
         "surface_type": "floor"
       },
@@ -62,6 +62,12 @@
                           }
                         }
                       }
+                    },
+                    {
+                      "type": "minecraft:block",
+                      "result_state": {
+                        "Name": "quark:limestone"
+                      }
                     }
                   ]
                 }
@@ -101,6 +107,12 @@
                           }
                         }
                      }
+                    },
+                    {
+                      "type": "minecraft:block",
+                      "result_state": {
+                        "Name": "quark:limestone"
+                      }
                     }
                   ]
                 }
@@ -119,6 +131,12 @@
                   "result_state": {
                     "Name": "grounded:sandy_dirt"
                   }
+                }
+              },
+              {
+                "type": "minecraft:block",
+                "result_state": {
+                  "Name": "quark:limestone"
                 }
               }
             ]

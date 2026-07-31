@@ -253,6 +253,14 @@
     "curseForgeHash": 4281946638,
     "modrinthHash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
   },
+  "embersrekindled-1.20.1-1.4.7.jar": {
+    "jarName": "embersrekindled-1.20.1-1.4.7.jar",
+    "modId": "embers",
+    "name": "Embers Rekindled",
+    "version": "1.20.1-1.4.7",
+    "curseForgeHash": 1250291908,
+    "modrinthHash": "e480919fd0645aebe9996b42ec65b41f16dcb6dd"
+  },
   "emi-1.1.24+1.20.1+forge.jar": {
     "jarName": "emi-1.1.24+1.20.1+forge.jar",
     "modId": "emi",
@@ -490,6 +498,14 @@
     "curseForgeHash": 2994552797,
     "modrinthHash": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae"
   },
+  "ldlib-forge-1.20.1-1.0.52.jar": {
+    "jarName": "ldlib-forge-1.20.1-1.0.52.jar",
+    "modId": "ldlib",
+    "name": "LowDragLib",
+    "version": "1.0.52",
+    "curseForgeHash": 827779506,
+    "modrinthHash": "5884470115a2b42345041e5c0dd976a9f1987c1c"
+  },
   "lithostitched-forge-1.20.1-1.4.11.jar": {
     "jarName": "lithostitched-forge-1.20.1-1.4.11.jar",
     "modId": "lithostitched",
@@ -513,6 +529,14 @@
     "version": "12.0.4",
     "curseForgeHash": 1302311926,
     "modrinthHash": "ac0da227ebc7606affb7017ecd31cd351c9113da"
+  },
+  "mbd2thread-1.1.47-1.20.1.jar": {
+    "jarName": "mbd2thread-1.1.47-1.20.1.jar",
+    "modId": "mbd2thread",
+    "name": "Mbd2Thread",
+    "version": "1.1.47-1.20.1",
+    "curseForgeHash": 2665766330,
+    "modrinthHash": "cec85bba79898ba4c45e21d12553f80a8e8f80ee"
   },
   "MCT-ImmersiveTechnology-1.20.1-2.1.0-b7105-release.jar": {
     "jarName": "MCT-ImmersiveTechnology-1.20.1-2.1.0-b7105-release.jar",
@@ -561,6 +585,14 @@
     "version": "2.25.1",
     "curseForgeHash": 3001740257,
     "modrinthHash": "d751153e722a4e014691c83f39f5b07c6ec5333c"
+  },
+  "multiblocked2-1.20.1-1.0.38.a.jar": {
+    "jarName": "multiblocked2-1.20.1-1.0.38.a.jar",
+    "modId": "mbd2",
+    "name": "Multiblocked2",
+    "version": "1.0.38.a",
+    "curseForgeHash": 1820731686,
+    "modrinthHash": "7a526e3fdb71661450912ed1f4083623651aa25f"
   },
   "OctoLib-FORGE-0.5.0.1+1.20.1.jar": {
     "jarName": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",

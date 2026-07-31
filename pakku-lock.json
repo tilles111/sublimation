@@ -1284,6 +1284,43 @@
             ]
         },
         {
+            "pakku_id": "XDbrt8MWmTO6oiWr",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "embers-rekindled"
+            },
+            "name": {
+                "curseforge": "Embers Rekindled"
+            },
+            "id": {
+                "curseforge": "300777"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "embersrekindled-1.20.1-1.4.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7446/478/embersrekindled-1.20.1-1.4.7.jar",
+                    "id": "7446478",
+                    "parent_id": "300777",
+                    "hashes": {
+                        "sha1": "e480919fd0645aebe9996b42ec65b41f16dcb6dd",
+                        "md5": "263098439f31c38083d4b227955a2ccf"
+                    },
+                    "required_dependencies": [],
+                    "size": 15572517,
+                    "date_published": "2026-01-11T14:38:52.800Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "AuhjDfnVgyQ480WQ",
             "type": "MOD",
             "slug": {
@@ -2475,6 +2512,42 @@
             ]
         },
         {
+            "pakku_id": "Ru7lSnU8cB4jqQIF",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ldlib"
+            },
+            "name": {
+                "curseforge": "LDLib"
+            },
+            "id": {
+                "curseforge": "626676"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ldlib-forge-1.20.1-1.0.52.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8430/516/ldlib-forge-1.20.1-1.0.52.jar",
+                    "id": "8430516",
+                    "parent_id": "626676",
+                    "hashes": {
+                        "sha1": "5884470115a2b42345041e5c0dd976a9f1987c1c",
+                        "md5": "a0fb704ea223789b4a92bd57d492a0f7"
+                    },
+                    "required_dependencies": [],
+                    "size": 3120450,
+                    "date_published": "2026-07-14T12:13:55.093Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "NfWaRQ1ExpGW4ZAq",
             "type": "MOD",
             "slug": {
@@ -2768,6 +2841,44 @@
                     "required_dependencies": [],
                     "size": 76237,
                     "date_published": "2024-05-12T16:26:46.523Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "D0lnUeDtY9tjkXl1",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "multiblocked2"
+            },
+            "name": {
+                "curseforge": "Multiblocked2"
+            },
+            "id": {
+                "curseforge": "1104057"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "multiblocked2-1.20.1-1.0.38.a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7415/529/multiblocked2-1.20.1-1.0.38.a.jar",
+                    "id": "7415529",
+                    "parent_id": "1104057",
+                    "hashes": {
+                        "sha1": "7a526e3fdb71661450912ed1f4083623651aa25f",
+                        "md5": "bcfd2b768c0e9974bac18c9627c89368"
+                    },
+                    "required_dependencies": [
+                        "626676"
+                    ],
+                    "size": 1459114,
+                    "date_published": "2026-01-04T07:40:32.113Z"
                 }
             ]
         },
@@ -3788,6 +3899,49 @@
                     "required_dependencies": [],
                     "size": 1006518,
                     "date_published": "2025-12-15T04:09:49.957Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8bADiavv5YHeDzCg",
+            "pakku_links": [
+                "D0lnUeDtY9tjkXl1"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "mbd2thread"
+            },
+            "name": {
+                "curseforge": "mbd2thread"
+            },
+            "id": {
+                "curseforge": "1469260"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mbd2thread-1.1.47-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8149/662/mbd2thread-1.1.47-1.20.1.jar",
+                    "id": "8149662",
+                    "parent_id": "1469260",
+                    "hashes": {
+                        "sha1": "cec85bba79898ba4c45e21d12553f80a8e8f80ee",
+                        "md5": "814f74ed91b1871f90355c54741727ce"
+                    },
+                    "required_dependencies": [
+                        "388172",
+                        "1104057",
+                        "626676"
+                    ],
+                    "size": 232108,
+                    "date_published": "2026-05-26T16:28:00.660Z"
                 }
             ]
         },
